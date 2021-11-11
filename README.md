@@ -1,0 +1,1 @@
+# factory-automatic-control-method
